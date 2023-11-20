@@ -1,0 +1,19 @@
+
+[project]
+name = "genomedigester"
+version = "0.0.1"
+authors = [
+  { name="Jerome Xinglin Qian", email="jeromexqian@outlook.com" },
+]
+description = "An in silico simulator of genomic DNA digestion with common endonuclease(s)."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/JeromeeX/genomedigester"
+"Bug Tracker" = "https://github.com/JeromeeX/genomedigester/issues"
